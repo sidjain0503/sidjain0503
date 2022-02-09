@@ -7,5 +7,4 @@
 - 💬 Ask me about ...Web developement, Data structures 
 - 📫 How to reach me: ...Here's my profile Sidjain(http://sidjain0503.github.io/siddharth_chopda)
 - 😄 Pronouns: ... Sid,Siddharth
-- ⚡ Fun fact: ... 
 
