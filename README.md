@@ -1,19 +1,21 @@
-   Hi there 👋
 
 
+# Hi there, I'm Siddharth Chopda 👋
 
-- 🔭 I’m currently working on ...MERN stack development 
-- 🌱 I’m currently learning ...Data structures and algorithms using java and MERN stack development 
-- 💬 Ask me about ...Web developement, Data structures 
-- 📫 How to reach me: ...Here's my profile Sidjain(https://siddharthchopda.tech)
-- 😄 Pronouns: ... Sid,Siddharth
+I'm a Frontend Developer & I'm primarily working with Next.js, Tailwind CSS, and Firebase. I'm also diving deep into Generative AI to create impactful and advanced solutions.
 
-![](https://komarev.com/ghpvc/?username=sidjain0503)
-<br>
-     <p align="right">
-Email:greatsid2003@gmail.com
-</p>
+## 🌱 I'm currently learning ...
+Generative AI and Language Model technologies.
 
-[![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidjain0503&show_icons=true&theme=radical)](https://github.com/sidjain0503/github-readme-stats)  
+## 👯‍♀️ I'm looking to collaborate on ...
+Any interesting projects that leverage my skillset.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidjain0503&layout=compact)](https://github.com/sidjain0503/github-readme-stats)
+## 🚀 What I offer ...
+With my unique blend of skills in Web Development and AI, along with unwavering curiosity to learn new technologies, I've been successful in delivering over 10+ projects as a freelancer. If you envisage turning your ideas into appealing and functional web solutions, feel free to get in touch with me!
+
+## ✍️ Apart from coding ...
+I write blogs on Hashnode, sharing coding tips, professional experiences, and advocating a strong, growth-focused mindset.
+
+## 📫 How to reach me ...
+Connect with me on [LinkedIn](https://www.linkedin.com/in/siddharthchopda-a15946201) or drop me an email at siddharthchopda03@gmail.com
+
