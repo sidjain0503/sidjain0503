@@ -2,7 +2,7 @@
 
 # Hi there, I'm Siddharth Chopda 👋
 
-I'm a Frontend Developer & I'm primarily working with Next.js, Tailwind CSS, and Firebase. I'm also diving deep into Generative AI to create impactful and advanced solutions.
+I'm a Frontend Developer & I'm primarily working with Next.js, Tailwind CSS, and React-query. I'm also diving deep into Generative AI & LLM's to create impactful and advanced solutions.
 
 ## 🌱 I'm currently learning ...
 Generative AI and Language Model technologies.
