@@ -17,5 +17,5 @@ With my unique blend of skills in Web Development and AI, along with unwavering 
 I write blogs on Hashnode, sharing coding tips, professional experiences, and advocating a strong, growth-focused mindset.
 
 ## 📫 How to reach me ...
-Connect with me on [LinkedIn](https://www.linkedin.com/in/siddharthchopda-a15946201) or drop me an email at siddharthchopda03@gmail.com
+Connect with me on [LinkedIn](https://www.linkedin.com/in/siddharth-chopda-a15946201/) or drop me an email at siddharthchopda03@gmail.com
 
