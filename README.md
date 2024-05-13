@@ -5,7 +5,7 @@
 Fullstack Developer with experience of Building SaaS & Project Maintainence & I'm primarily working with Next.js, Tailwind CSS, and React-query. I'm also diving deep into Generative AI & LLM's to create impactful and advanced solutions.
 
 ## 🌱 I'm currently learning ...
-Generative AI and Language Model technologies.
+Applied AI, Frontend Development and Language Model technologies.
 
 ## 👯‍♀️ I'm looking to collaborate on ...
 Any interesting projects that leverage my skillset.
